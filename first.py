@@ -1,4 +1,5 @@
 print("hii")
 print("heyy")
-print("dhd")
-print("akshay")
+print("hhd")
+print("kalpesh")
+print("hey how are you")
