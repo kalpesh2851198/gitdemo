@@ -1,2 +1,3 @@
 print("hii")
-print("he")
+print("heyy")
+print("dhd")
